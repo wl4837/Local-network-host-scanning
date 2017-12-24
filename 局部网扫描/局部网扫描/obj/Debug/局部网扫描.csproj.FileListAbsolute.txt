@@ -1,0 +1,10 @@
+c:\users\wl4837\source\repos\局部网扫描\局部网扫描\bin\Debug\局部网扫描.exe.config
+c:\users\wl4837\source\repos\局部网扫描\局部网扫描\bin\Debug\局部网扫描.exe
+c:\users\wl4837\source\repos\局部网扫描\局部网扫描\bin\Debug\局部网扫描.pdb
+c:\users\wl4837\source\repos\局部网扫描\局部网扫描\obj\Debug\局部网扫描.csprojResolveAssemblyReference.cache
+c:\users\wl4837\source\repos\局部网扫描\局部网扫描\obj\Debug\局部网扫描.Form1.resources
+c:\users\wl4837\source\repos\局部网扫描\局部网扫描\obj\Debug\局部网扫描.Properties.Resources.resources
+c:\users\wl4837\source\repos\局部网扫描\局部网扫描\obj\Debug\局部网扫描.csproj.GenerateResource.Cache
+c:\users\wl4837\source\repos\局部网扫描\局部网扫描\obj\Debug\局部网扫描.csproj.CoreCompileInputs.cache
+c:\users\wl4837\source\repos\局部网扫描\局部网扫描\obj\Debug\局部网扫描.exe
+c:\users\wl4837\source\repos\局部网扫描\局部网扫描\obj\Debug\局部网扫描.pdb
